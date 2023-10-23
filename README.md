@@ -12,16 +12,24 @@ The counter can be displayed across 2 screens (4 digits each), or on one screen:
 
 Left screen:
 
-http://192.241.254.136/p4p/?mostSignificant
+https://p4p-counter.github.io/counter/?mostSignificant
 
 Right screen:
 
-http://192.241.254.136/p4p/?mostSignificant
+https://p4p-counter.github.io/counter/?mostSignificant
 
 All digits:
 
-http://192.241.254.136/p4p/?all
+https://p4p-counter.github.io/counter/?all
 
 # Deployment
 
 This is currently deployed to a Digital Ocean server (192.241.254.136), but can easily be deployed to any server, or GitHub Pages.
+
+# google doc
+
+A Google doc explaining auth, etc is hosted here:
+
+https://docs.google.com/document/d/1Abs6ko10dR3Wg7QdHr1-PpN6j5ubwB2nv75_3h9sjjI/edit
+
+Ask Dara for access

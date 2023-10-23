@@ -1,5 +1,5 @@
 :root {
-  --screen-height: 1080px;
+  --screen-height: 880px; // 1080
   --screen-width: 2560px;
   --all-screen-height: calc(780px / 2);
   --all-screen-width: calc(2976px / 2);
